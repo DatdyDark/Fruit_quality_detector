@@ -23,9 +23,9 @@ def capture_and_classify_image_task():
         image_file.write(image.read())
 
     # Replace these with your own Azure Custom Vision details
-    prediction_url = 'https://southeastasia.api.cognitive.microsoft.com/'
-    prediction_key = '4b48f607e3414712b8112d162a7a4419'
-    project_id = '2f82df96-608d-4650-a3fe-c588de9852e9'
+    prediction_url = ''
+    prediction_key = ''
+    project_id = ''
     iteration_name = 'Iteration6'
     
 
