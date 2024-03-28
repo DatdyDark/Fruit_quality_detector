@@ -1,0 +1,10 @@
+counterfit
+counterfit_shims_grove
+Werkzeug==2.2.2
+counterfit_shims_picamera
+azure-cognitiveservices-vision-customvision
+counterfit-shims-rpi-vl53l0x
+counterfit_shims_rpi
+azure-iot-device
+azure-functions
+azure-iot-hub
